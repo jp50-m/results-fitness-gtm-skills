@@ -1,0 +1,87 @@
+# All Skills
+
+Total: **80 skills**
+
+```
+skills/
+├── ab-test-setup
+├── ad-campaign-management
+├── ai-seo
+├── analytics-tracking
+├── app-store-optimization
+├── billion-dollar-board
+├── blog-writing-specialist
+├── bootstrap
+├── brand-messaging-and-positioning
+├── business-coach
+├── calendar-control
+├── challenge-funnel
+├── cold-email
+├── community-building
+├── community-marketing
+├── competitor-alternatives
+├── competitor-analysis
+├── content-creation-and-marketing
+├── content-strategy
+├── content-strategy-and-planning
+├── conversion-rate-optimization
+├── copy-editing
+├── copywriting-core
+├── crm-integration
+├── customer-research
+├── customer-success-and-retention
+├── data-and-funnel-analytics
+├── email-sequence
+├── executive-dashboard-generator
+├── form-cro
+├── free-tool-strategy
+├── go-to-market-strategy
+├── growth-strategy
+├── inbox-command
+├── issue-reporting
+├── keyword-research-and-clustering
+├── landing-page-optimization
+├── lead-generation-and-demand
+├── lead-magnets
+├── linkedin
+├── market-research-analysis
+├── marketing-automation
+├── marketing-campaign-management
+├── marketing-ideas
+├── marketing-psychology
+├── marketing-strategy
+├── meeting-intel
+├── morning-briefing
+├── newsletter-management
+├── notebooklm
+├── outbound-email-strategy
+├── page-cro
+├── paid-ads
+├── personalization-at-scale
+├── ph-community-outreach
+├── ph-content-recycling
+├── pitch-deck-creation
+├── pr-specialist
+├── pricing-strategy
+├── product-hunt-launch
+├── product-market-fit-analysis
+├── programmatic-seo
+├── qr-code-generator
+├── referral-program
+├── sales-and-revenue-operations
+├── sales-enablement
+├── schema-markup
+├── seo-and-aeo-strategy
+├── seo-audit
+├── skill-navigator
+├── slide-outline
+├── social-content
+├── social-media-management
+├── user-onboarding
+├── utm-builder
+├── webinar-content-and-events
+├── wrapup
+├── x-impact-checker
+├── youtube-content
+└── youtube-research
+```
